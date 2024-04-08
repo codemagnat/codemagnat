@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>Verification: 91536a34a2880f29</body>
+</html>
+
+
 <!--
 **codemagnat/codemagnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
